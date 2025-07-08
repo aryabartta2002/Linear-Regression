@@ -1,2 +1,3 @@
 # Linear-Regression
-Simple Linear Regression Practicing
+Simple Linear Regression Practice
+
